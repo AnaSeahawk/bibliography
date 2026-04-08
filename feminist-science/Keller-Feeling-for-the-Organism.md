@@ -29,6 +29,16 @@ This biography of Barbara McClintock — Nobel laureate, discoverer of genetic t
 - Her isolation from the scientific community — the parallel to the witch-healer suppression argument
 - The Nobel recognition decades late: the institution eventually confirmed what she already knew
 
+---
+
+## Extracted quotes
+
+### The program is dynamic — and takes instructions from the whole (Preface)
+
+> With the discovery of genetic mobility, our very concept of a genetic program has changed. It needs now to be thought of as a dynamic structure, rather than as a static linear message inscribed in the sequence of DNA. And to the extent that the movement of genes is itself part of the program, we need to ask: Where do the instructions come from? McClintock's answer—that they come from the entire cell, the organism, perhaps even from the environment—is profoundly disturbing to orthodox genetics.
+
+---
+
 **Passages to locate once OCR'd:**
 - Her description of getting "inside" the genetics
 - Her statement about "letting the material speak"
