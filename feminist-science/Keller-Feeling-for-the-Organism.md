@@ -37,6 +37,10 @@ This biography of Barbara McClintock — Nobel laureate, discoverer of genetic t
 
 > With the discovery of genetic mobility, our very concept of a genetic program has changed. It needs now to be thought of as a dynamic structure, rather than as a static linear message inscribed in the sequence of DNA. And to the extent that the movement of genes is itself part of the program, we need to ask: Where do the instructions come from? McClintock's answer—that they come from the entire cell, the organism, perhaps even from the environment—is profoundly disturbing to orthodox genetics.
 
+### Knowledge and the tangled web (Preface)
+
+> But the actual story is both more complex and more illuminating. It is a story about the nature of scientific knowledge, and of the tangled web of individual and group dynamics that define its growth.
+
 ---
 
 **Passages to locate once OCR'd:**
