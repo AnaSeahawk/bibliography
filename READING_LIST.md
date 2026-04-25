@@ -19,7 +19,7 @@ Files live in their respective topic folders; unsourced titles are listed here a
 | *The Secrets of Alchemy* | Lawrence Principe | Best modern scholarly history. Distinguishes what practitioners actually did vs. symbolic interpretation. |
 | *The Jewish Alchemists* | Raphael Patai | Includes Mary the Jewess chapter; Alexandrian lineage; Jewish alchemical transmission. |
 | *A Dictionary of Alchemical Imagery* | Lyndy Abraham | Reference volume. Every symbol, vessel, operation indexed with primary source citations. |
-| *Chrysopoeia* (facsimile) | Cleopatra the Alchemist | The ouroboros diagram with *Hen to Pan*. Codex Marcianus Graecus, Venice. Available via Wellcome Collection. |
+| *Chrysopoeia* (ouroboros diagram) | Cleopatra the Alchemist | The ouroboros diagram with *Hen to Pan*. **Acquired:** `alchemy/Cleopatra-Chrysopoeia-ouroboros.png` — 1280×1409 px greyscale. Primary source image. |
 
 ---
 
