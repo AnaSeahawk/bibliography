@@ -55,9 +55,9 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *Giordano Bruno: Cosmological Writings* | Giordano Bruno | **Acquired.** Hermetic philosophy, memory systems, the infinite universe. |
 | *Alchemy Deciphered* | Anon | **Acquired.** |
 | *Chrysopoeia* (ouroboros diagram) | Cleopatra the Alchemist | **Acquired** (PNG image). The ouroboros with *Hen to Pan* — primary source image. |
-| *A Suggestive Inquiry into the Hermetic Mystery* | Mary Anne Atwood (1850) | Not yet acquired. First serious argument that alchemy was a coded language for self-transformation. |
-| *The Secrets of Alchemy* | Lawrence Principe | Not yet acquired. Best modern scholarly history; distinguishes practice from symbolism. |
-| *The Jewish Alchemists* | Raphael Patai | Not yet acquired. Mary the Jewess chapter; Alexandrian lineage. |
+| *A Suggestive Inquiry into the Hermetic Mystery* | Mary Anne Atwood (1850) | **Acquired.** First serious argument that alchemy was a coded language for self-transformation. |
+| *The Secrets of Alchemy* | Lawrence Principe | **Acquired.** Best modern scholarly history; distinguishes practice from symbolism. |
+| *The Jewish Alchemists* | Raphael Patai | **Acquired.** Mary the Jewess chapter; Alexandrian lineage. |
 | *A Dictionary of Alchemical Imagery* | Lyndy Abraham | Not yet acquired. Reference: every symbol, vessel, operation indexed with primary citations. |
 
 ---
@@ -78,7 +78,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *Hatha Yoga Pradipika* | Swatmarama | **Acquired.** Primary source for pranayama, khechari mudra, and the soma nectar from the crown. Cited in The Medicine. |
 | *Hatha Yoga: A Personal Experience* | Theos Bernard | **Acquired.** First-person account of intensive Hatha Yoga practice in India. |
 | *The Hindu-Yogi Science of Breath* | Ramacharaka (W.W. Atkinson) | **Acquired.** Pranayama as physiological modifier — breath changes blood chemistry. |
-| *Sushruta Samhita* | Trans. K.M. Bhishagratna | Not yet acquired. Surgical/anatomical counterpart to Charaka. |
+| *Sushruta Samhita* | Trans. K.M. Bhishagratna | **Acquired.** Surgical/anatomical counterpart to Charaka. |
 
 ---
 
@@ -168,7 +168,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *Anna, Grandmother of Jesus* | Claire Heartsong | **Acquired.** The feminine Essene lineage. |
 | *Anna, Voice of the Magdalenes* | Claire Heartsong | **Acquired.** |
 | *Witches, Midwives, and Nurses: A History of Women Healers* | Ehrenreich & English | **Acquired.** Direct historical support for the suppression argument. Companion `.md`. |
-| *The Trotula: A Medieval Compendium of Women's Medicine* | Ed. Monica H. Green | Not yet acquired. Primary source for Trotula of Salerno; Green's introduction is essential scholarship. |
+| *The Trotula: A Medieval Compendium of Women's Medicine* | Ed. Monica H. Green | **Acquired.** Primary source for Trotula of Salerno; Green's introduction is essential scholarship. |
 | *The Woman in the Body* | Emily Martin | Not yet acquired. Medical anthropology of how women's bodies are described. |
 | *I Secreti della Signora Isabella Cortese* | Isabella Cortese (1561) | Not yet acquired. First book published by a female alchemist. |
 
@@ -190,7 +190,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *A Feeling for the Organism* | Evelyn Fox Keller | **Acquired.** |
 | *The Science Question in Feminism* | Sandra Harding | Not yet acquired. Philosophical analysis of how science constructs its knowing subject. |
 | *Sexing the Body* | Anne Fausto-Sterling | Not yet acquired. Medical construction of sex and anatomy. |
-| *Simians, Cyborgs, and Women* | Donna Haraway | Not yet acquired. Situated knowledge; the observer is part of the experiment. |
+| *Simians, Cyborgs, and Women* | Donna Haraway | **Acquired.** Situated knowledge; the observer is part of the experiment. |
 
 ---
 
@@ -265,7 +265,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *The Secret of Light* | Walter Russell | **Acquired.** Russell's cosmology; light as the fundamental substance; electromagnetic universe. |
 | *The Universal One* | Walter Russell | **Acquired.** Russell's complete cosmological system. |
 | *World Upside Down: Essays* | Anon | **Acquired.** |
-| *The Moon and the Virgin* | Nor Hall | Not yet acquired. Depth-psychological exploration of lunar feminine, the vessel, containment. |
+| *The Moon and the Virgin* | Nor Hall | **Acquired.** Depth-psychological exploration of lunar feminine, the vessel, containment. |
 
 ---
 
@@ -332,7 +332,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 
 | Title | Author | Notes |
 |---|---|---|
-| *The Forgotten Revolution* | Lucio Russo | Not yet acquired. Greeks achieved scientific method in the Hellenistic period; suppressed, not lost. |
+| *The Forgotten Revolution* | Lucio Russo | **Acquired.** Greeks achieved scientific method in the Hellenistic period; suppressed, not lost. |
 | *Hellenistic Science and Culture* | George Sarton | Not yet acquired. Comprehensive overview of Alexandrian anatomy, chemistry, mathematics. |
 | *The Beginnings of Western Science* | David C. Lindberg | Not yet acquired. Standard textbook; Herophilus, Erasistratus, Alexandrian anatomy. |
 
