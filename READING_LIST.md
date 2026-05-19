@@ -79,6 +79,10 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *Hatha Yoga: A Personal Experience* | Theos Bernard | **Acquired.** First-person account of intensive Hatha Yoga practice in India. |
 | *The Hindu-Yogi Science of Breath* | Ramacharaka (W.W. Atkinson) | **Acquired.** Pranayama as physiological modifier — breath changes blood chemistry. |
 | *Sushruta Samhita* | Trans. K.M. Bhishagratna | **Acquired.** Surgical/anatomical counterpart to Charaka. |
+| *Ayurveda and Marma Therapy* | Frawley, Ranade & Lele | **Acquired.** Energy points in yogic healing; marma as the body's living geography. |
+| *Ayurvedic Astrology* | David Frawley | **Acquired.** Self-healing through the stars; planetary correspondences for herbs and constitution. |
+| *Handbook of Chinese Medicine and Ayurveda* | Bridgette Shea | **Acquired.** Integrated practice of both traditions; correspondences and clinical synthesis. |
+| *A Practical Handbook of Panchakarma Procedures* | Lavekar, Menon et al. | **Acquired.** Classical detoxification protocols; the five purification actions. |
 
 ---
 
@@ -213,6 +217,19 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *The Witch's Herbal Apothecary* | Marysia Miernowska | **Acquired.** Seasonal plant medicine from the wise woman tradition. |
 | *Culpeper's Complete Herbal* | Nicholas Culpeper (1653) | **Acquired.** Historical Western herbalism; astrological herb classification. |
 | *Peru: History of Coca* | W. Golden Mortimer | **Acquired.** Historical and botanical record of coca use. |
+| *The Lost Language of Plants* | Stephen Harrod Buhner | **Acquired.** The ecological importance of plant medicines — plants as chemical communicators with their ecosystems and with us. The foundational text for the plant-body communication argument. |
+| *Finding the Mother Tree* | Suzanne Simard | **Acquired.** The mycorrhizal network as a communication and nutrient-sharing system; the forest as a community of intelligence. |
+| *The Botany of Desire* | Michael Pollan | **Acquired.** Plants as active agents in their own evolution — co-evolutionary relationship between plants and human desire. |
+| *Biophilia* | Edward O. Wilson | **Acquired.** The innate human affinity for other living systems; our biological need for relationship with the living world. |
+| *The Biophilia Hypothesis* | Kellert & Wilson (eds.) | **Acquired.** Collected essays on the biophilia concept from ecology, evolutionary biology, and design. |
+| *De Materia Medica* | Dioscorides (c. 50 CE) | **Acquired.** The foundational Western herbal — 600 plants, 35 animal products, 90 minerals. The classical lineage of Western plant medicine. |
+| *Alchemy of Herbs* | Rosalee de la Forêt | **Acquired.** Making food and medicine from everyday ingredients; the taste-based logic of herbs as healing agents. |
+| *Modern Herbal Dispensatory* | Easley & Horne | **Acquired.** Medicine-making guide; the practical craft of preparing plant medicines. |
+| *The Presence of the Past: Morphic Resonance* | Rupert Sheldrake | **Acquired.** Habits of nature as a kind of memory; fields of influence that persist across time and space. Relevant to plant-body communication and the body's own intelligence. |
+| *The One-Straw Revolution* | Masanobu Fukuoka | **Acquired.** Natural farming philosophy; doing less to allow the intelligence of the land to operate. Direct parallel to the "non-forcing" principle. |
+| *Teaming with Microbes: The Soil Food Web* | Lowenfels & Lewis | **Acquired.** The invisible community beneath the soil; soil ecology as a reciprocal relationship. |
+| *Mycelium Running* | Paul Stamets | **Acquired.** How fungi can help save the world; mycorrhizal intelligence, ecological repair. |
+| *Silent Spring* | Rachel Carson | **Acquired** (also in feminist-science/). The foundational document on chemical disruption of plant-animal-human communication. |
 | *Cannabis Alchemy* | D. Gold | **Acquired.** |
 | *Psilocybin Producer's Guide* | Adam Gottlieb | **Acquired.** |
 
