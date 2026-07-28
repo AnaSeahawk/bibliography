@@ -58,7 +58,7 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *A Suggestive Inquiry into the Hermetic Mystery* | Mary Anne Atwood (1850) | **Acquired.** First serious argument that alchemy was a coded language for self-transformation. |
 | *The Secrets of Alchemy* | Lawrence Principe | **Acquired.** Best modern scholarly history; distinguishes practice from symbolism. |
 | *The Jewish Alchemists* | Raphael Patai | **Acquired.** Mary the Jewess chapter; Alexandrian lineage. |
-| *Cabala mineralis* | Simeon ben Cantara | **Acquired.** Illustrated alchemical manuscript ([32] p., all colour ill.), digitized by the Warburg Institute (classmark FGH 6480). Commonly read as depicting the preparation of the philosophical mercury from urine — directly relevant to the practice. Companion `.md` with full Latin transcription and English translation. |
+| *Cabala mineralis* | Simeon ben Cantara | **Acquired.** Illustrated alchemical manuscript ([32] p., all colour ill.), digitized by the Warburg Institute (classmark FGH 6480). Commonly read as depicting the preparation of the philosophical mercury from urine — directly relevant to the practice. Companion `.md` with full Latin transcription and English translation. Also acquired: the British Library copy (Add MS 5245) as `-BL-Book1.pdf` (plates + McLean's English) and `-BL-Book2-Plates.pdf`; the Second Book's text — the Mary the Prophetess dialogue — is in the companion. |
 | *A Dictionary of Alchemical Imagery* | Lyndy Abraham | Not yet acquired. Reference: every symbol, vessel, operation indexed with primary citations. |
 
 ---
