@@ -6,12 +6,15 @@ Three PDFs covering the complete Vinaya Pitaka in English, including the Mahavag
 
 ## Horner — Book of the Discipline (PTS, 1992–93)
 
-**File:** `Horner-Book-of-the-Discipline-Vinaya-Pitaka.pdf`
-**Edition/translator:** I. B. Horner, Pali Text Society, Sacred Books of the Buddhists vols. 10–11, 13–14, 20, 25
+**File:** `Horner-Book-of-the-Discipline-Vol4-Mahavagga.pdf`
+**Edition/translator:** I. B. Horner, Pali Text Society, Sacred Books of the Buddhists vol. XIV
 **Anna's Archive MD5:** `bd6045507b146908d94e9fac43b3fe03`
 **Size:** 22 MB
 
-The standard modern scholarly translation. Complete Vinaya Pitaka in English. Includes Suttavibhanga, Mahavagga, and Cullavagga. The Bhesajjakkhandhaka (medicine chapter) is in the Mahavagga (Book of Discipline vol. 4).
+Volume 4 of Horner's six-volume translation — the Mahāvagga. This is the
+volume containing the Bhesajjakkhandhaka (medicine chapter). The scan has
+no usable OCR text layer; citation verification requires the canon or
+other reference editions.
 
 ### Key chapters (Mahavagga)
 
@@ -61,7 +64,25 @@ Covers: Patimokkha + Mahavagga I–IV. The earlier Victorian-era translation (pu
 
 ## Research note
 
-*Putimuttabhesajja* appears in Mahavagga VI as one of a short list of *yavajivika* ("lifetime") medicines — those unrestricted in how long a monk may keep and use them. The Pali term *puti* means rotten/fermented; *mutta* means urine. The compound designates urine that has been allowed to ferment or age. This is distinct from fresh urine (*passava*).
+*Putimuttabhesajja* appears in two distinct Mahāvagga provisions:
+
+1. **Mahāvagga I.30.4** — one of the four *nissāya* (basic allowances)
+   declared at ordination: "Medicine consisting of putrid urine is a
+   trifling thing, easily obtained and blameless." This establishes urine
+   medicine as a fundamental monastic resource, not a special dispensation.
+
+2. **Mahāvagga VI (Bhesajjakkhandhaka)** — the medicine chapter, where
+   *putimutta* is listed among the *yāvajīvika* ("lifetime") medicines,
+   those unrestricted in how long a monk may keep and use them. At VI.14.7
+   the chapter separately permits a decoction of **cow's** urine for
+   jaundice — a related but distinct provision.
+
+These two references should not be merged: I.30.4 is an ordination
+allowance; VI is a pharmaceutical classification.
+
+The Pali term *puti* means rotten/fermented; *mutta* means urine. The
+compound designates urine that has been allowed to ferment or age. This
+is distinct from fresh urine (*passāva*).
 
 For the urine therapy archive: the SBE Vol. 17 PDF (Müller) is the most accessible for quick reference. The Horner translation (PTS) is the standard scholarly citation form.
 
