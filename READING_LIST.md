@@ -1,7 +1,20 @@
 # Reading List — Sovereign Biophysics Archive
 
 Books sourced to deepen and cite the archive. Organized by theme.
-Files live in their respective topic folders. **Acquired** = file is in this repo.
+**Acquired** = the book is in the library. Public-domain and openly licensed
+books are in this repo under their topic folder. **Acquired (private shelf)** =
+the book is held privately on Ana's Google Drive shelf, under the same topic
+folder name.
+
+## Shelf status
+
+Copyrighted books are moving from this repo to the private shelf, one folder at
+a time as each folder comes up in the work.
+
+| Folder | Status |
+|---|---|
+| embodiment/ | moved 2026-10-09 |
+| alchemy/, ayurveda/, buddhism/, chinese-medicine/, dreamwork/, feminist-science/, fermentation/, grief-and-body/, mythology/, plants/, shamanism/, urine-therapy/, water/, women-healers/ | to sort |
 
 ---
 
@@ -129,32 +142,40 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 
 | Title | Author | Notes |
 |---|---|---|
-| *The Body Electric* | Robert O. Becker & Gary Selden | **Acquired.** Bioelectricity research — endogenous electrical fields and healing. Direct scientific grounding for ORP/electrochemical measurements. The body as an electrical system. |
-| *The Human Heart, Cosmic Heart* | Thomas Cowan | **Acquired.** Heart as electrical field organ; heart intelligence as biological coherence centre. |
-| *The Function of the Orgasm* | Wilhelm Reich | **Acquired.** Core Reich. Orgone energy, character armoring, the biological basis of psychological structure. |
-| *Character Analysis* | Wilhelm Reich | **Acquired.** Body armoring as frozen biography; the reading of the body's charge. |
+| *The Body Electric* | Robert O. Becker & Gary Selden | **Acquired (private shelf).** Bioelectricity research — endogenous electrical fields and healing. Direct scientific grounding for ORP/electrochemical measurements. The body as an electrical system. |
+| *The Human Heart, Cosmic Heart* | Thomas Cowan | **Acquired (private shelf).** Heart as electrical field organ; heart intelligence as biological coherence centre. |
+| *The Function of the Orgasm* | Wilhelm Reich | **Acquired (private shelf).** Core Reich. Orgone energy, character armoring, the biological basis of psychological structure. |
+| *Character Analysis* | Wilhelm Reich | **Acquired (private shelf).** Body armoring as frozen biography; the reading of the body's charge. |
 | *The Cancer Biopathy* | Wilhelm Reich | **Acquired (private shelf).** Reich's theory of biological stagnation; the shrunken vs expansive organism. |
-| *Bioelectrical Investigation of Sexuality and Anxiety* | Wilhelm Reich | **Acquired.** The electrical measurement papers — direct parallel to the archive's ORP measurements. |
-| *Ether, God and Devil / Cosmic Superimposition* | Wilhelm Reich | **Acquired.** Late Reich; orgone as universal life energy; the cosmic dimension. |
+| *Bioelectrical Investigation of Sexuality and Anxiety* | Wilhelm Reich | **Acquired (private shelf).** The electrical measurement papers — direct parallel to the archive's ORP measurements. |
+| *Ether, God and Devil / Cosmic Superimposition* | Wilhelm Reich | **Acquired (private shelf).** Late Reich; orgone as universal life energy; the cosmic dimension. |
 | *The Bion Experiments* | Wilhelm Reich | **Acquired (private shelf).** Orgone vesicles; the origin of life from inorganic matter. |
-| *The Mass Psychology of Fascism* | Wilhelm Reich | **Acquired.** Armoring at the social level; sexual repression and authoritarian structure. |
-| *The Sexual Revolution* | Wilhelm Reich | **Acquired.** The political dimension of body suppression. |
-| *The Invasion of Compulsory Sex-Morality* | Wilhelm Reich | **Acquired.** Armoring as culturally installed; directly supports the Language of Erasure argument. |
-| *Reich Speaks of Freud* | Wilhelm Reich | **Acquired.** |
-| *The Murder of Christ* | Wilhelm Reich | **Acquired.** |
-| *Listen Little Man* | Wilhelm Reich | **Acquired.** |
-| *Selected Writings* | Wilhelm Reich | **Acquired.** |
-| *The Orgone Accumulator Handbook* | James DeMeo (with Eva Reich) | **Acquired.** Practical orgone accumulator construction and use. |
-| *Saharasia* (preview) | James DeMeo | **Acquired.** Geographic mapping of body armoring and patriarchal structure. |
-| *Bioenergetics* | Alexander Lowen | **Acquired.** Reich's clinical application; body posture as character structure. |
-| *Love and Orgasm* | Alexander Lowen | **Acquired.** |
-| *Breaking the Death Habit: The Science of Everlasting Life* | Leonard Orr | **Acquired.** Rebirthing/breathwork; breath as the key to the body's deepest patterns. |
-| *Tantra: The Art of Conscious Loving* | Charles & Caroline Muir | **Acquired.** Conscious union; karezza-adjacent; the relational dimension of the practice. |
-| *The Great Bliss: Tantric Sex and Inner Awakening* | Anon | **Acquired.** |
-| *Journey to the Breath* | Anon | **Acquired.** Breathwork practice. |
-| *Bodyfulness* | Christine Caldwell | **Acquired.** Somatic practice; the body as the primary site of knowing. |
-| *Waking the Tiger: Healing Trauma* | Peter Levine | **Acquired.** Somatic trauma resolution; the body's own healing intelligence. |
-| *Man's Higher Consciousness* | Hilton Hotema | **Acquired.** Breatharian and fasting tradition; the body's minimal-input operation. |
+| *The Mass Psychology of Fascism* | Wilhelm Reich | **Acquired (private shelf).** Armoring at the social level; sexual repression and authoritarian structure. |
+| *The Sexual Revolution* | Wilhelm Reich | **Acquired (private shelf).** The political dimension of body suppression. |
+| *The Invasion of Compulsory Sex-Morality* | Wilhelm Reich | **Acquired (private shelf).** Armoring as culturally installed; directly supports the Language of Erasure argument. |
+| *Reich Speaks of Freud* | Wilhelm Reich | **Acquired (private shelf).** |
+| *The Murder of Christ* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Listen Little Man* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Selected Writings* | Wilhelm Reich | **Acquired (private shelf).** |
+| *The Orgone Accumulator Handbook* | James DeMeo (with Eva Reich) | **Acquired (private shelf).** Practical orgone accumulator construction and use. |
+| *Saharasia* (preview) | James DeMeo | **Acquired (private shelf).** Geographic mapping of body armoring and patriarchal structure. |
+| *Bioenergetics* | Alexander Lowen | **Acquired (private shelf).** Reich's clinical application; body posture as character structure. |
+| *Love and Orgasm* | Alexander Lowen | **Acquired (private shelf).** |
+| *Breaking the Death Habit: The Science of Everlasting Life* | Leonard Orr | **Acquired (private shelf).** Rebirthing/breathwork; breath as the key to the body's deepest patterns. |
+| *Tantra: The Art of Conscious Loving* | Charles & Caroline Muir | **Acquired (private shelf).** Conscious union; karezza-adjacent; the relational dimension of the practice. |
+| *The Great Bliss: Tantric Sex and Inner Awakening* | Anon | **Acquired (private shelf).** |
+| *Journey to the Breath* | Anon | **Acquired (private shelf).** Breathwork practice. |
+| *Bodyfulness* | Christine Caldwell | **Acquired (private shelf).** Somatic practice; the body as the primary site of knowing. |
+| *Waking the Tiger: Healing Trauma* | Peter Levine | **Acquired (private shelf).** Somatic trauma resolution; the body's own healing intelligence. |
+| *Man's Higher Consciousness* | Hilton Hotema | **Acquired (private shelf).** Breatharian and fasting tradition; the body's minimal-input operation. |
+| *Beyond Psychology: Letters and Journals 1934–1939* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Where's the Truth? Letters and Journals 1948–1957* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Passion of Youth: An Autobiography, 1897–1922* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Early Writings, Volume One* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Genitality in the Theory and Therapy of Neurosis* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Children of the Future* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Sex-Pol: Essays 1929–1934* | Wilhelm Reich | **Acquired (private shelf).** |
+| *Facial Reflexology for Emotional Wellbeing* | — | **Acquired (private shelf).** |
 
 ---
 
