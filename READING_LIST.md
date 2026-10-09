@@ -133,10 +133,10 @@ Files live in their respective topic folders. **Acquired** = file is in this rep
 | *The Human Heart, Cosmic Heart* | Thomas Cowan | **Acquired.** Heart as electrical field organ; heart intelligence as biological coherence centre. |
 | *The Function of the Orgasm* | Wilhelm Reich | **Acquired.** Core Reich. Orgone energy, character armoring, the biological basis of psychological structure. |
 | *Character Analysis* | Wilhelm Reich | **Acquired.** Body armoring as frozen biography; the reading of the body's charge. |
-| *The Cancer Biopathy* | Wilhelm Reich | **Acquired.** Reich's theory of biological stagnation; the shrunken vs expansive organism. |
+| *The Cancer Biopathy* | Wilhelm Reich | **Acquired (private shelf).** Reich's theory of biological stagnation; the shrunken vs expansive organism. |
 | *Bioelectrical Investigation of Sexuality and Anxiety* | Wilhelm Reich | **Acquired.** The electrical measurement papers — direct parallel to the archive's ORP measurements. |
 | *Ether, God and Devil / Cosmic Superimposition* | Wilhelm Reich | **Acquired.** Late Reich; orgone as universal life energy; the cosmic dimension. |
-| *The Bion Experiments* | Wilhelm Reich | **Acquired.** Orgone vesicles; the origin of life from inorganic matter. |
+| *The Bion Experiments* | Wilhelm Reich | **Acquired (private shelf).** Orgone vesicles; the origin of life from inorganic matter. |
 | *The Mass Psychology of Fascism* | Wilhelm Reich | **Acquired.** Armoring at the social level; sexual repression and authoritarian structure. |
 | *The Sexual Revolution* | Wilhelm Reich | **Acquired.** The political dimension of body suppression. |
 | *The Invasion of Compulsory Sex-Morality* | Wilhelm Reich | **Acquired.** Armoring as culturally installed; directly supports the Language of Erasure argument. |
